@@ -1,0 +1,4 @@
+install:
+  no_data_partition: true
+system_settings:
+  auto-disk-provision-paths: "/dev/sdb"
